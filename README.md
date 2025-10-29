@@ -8,14 +8,17 @@ A personal playground for experimental code, proof-of-concepts, and technical ex
 - Proof-of-concept implementations
 - Code snippets and utility tools
 
-##  Technologies
-python,golang,java
+## Projects
+- Find the biggest sector between matrices
 
-big data
+## Technologies
+- python,golang,java
 
-postgresql,spark,kafka
+ -big data
 
-docker
+ -postgresql,spark,kafka
+
+ -docker
 
 
 ## Structure
