@@ -19,8 +19,6 @@ for matrice_name in list_of_matrices_names :  #Loop through each name in the lis
 
 
 
-buffer_list = []
-
 buffer = [[],[],[],[],[],[],[],[],[]]
 
 for item in list_of_matrices_names[1:] :
