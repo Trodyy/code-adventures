@@ -28,4 +28,4 @@ The ouput is st5h like this :
 ```
 {'b': 3945, 'c': 3917, 'd': 3792, 'e': 3965, 'f': 3873, 'g': 3883, 'h': 3893, 'i': 3888, 'j': 3845}
 ```
-The most similarity is the element that hs the biggest value.
+The most similarity is the element that hs the biggest value.Fore example in the above output, matrix e has the most similarity with matrix a.
