@@ -1,4 +1,4 @@
-# [code-adventure]
+# code-adventure
 
 A personal playground for experimental code, proof-of-concepts, and technical explorations. This repository contains various projects where I experiment with new technologies, test ideas, and satisfy my coding curiosity.
 
@@ -9,16 +9,19 @@ A personal playground for experimental code, proof-of-concepts, and technical ex
 - Code snippets and utility tools
 
 ## Projects
-- Find the biggest sector between matrices
+1. Find the biggest sector between matrices
 
 ## Technologies
-- python,golang,java
+- python, golang, java
 
- -big data
+- big data
 
- -postgresql,spark,kafka
+- postgresql
 
- -docker
+- spark, hadoop
 
+- tableua, power BI
 
-## Structure
+- kafka, redpanda, flink
+
+- docker, kubernetes
